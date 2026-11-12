@@ -13,7 +13,7 @@ namespace TaskFlowApi.Controllers
             {
                 proyecto = "TaskFlow",
                 materia = "Desarrollo de Aplicaciones Web Avanzado",
-                backend = "ASP.NET Core"
+                backend = "ASP.NET Core Web API",
             });
         }
     }
